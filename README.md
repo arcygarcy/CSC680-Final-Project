@@ -11,3 +11,10 @@ Project Idea:
   This project is hosted on GCP and the APIs for this application were all made by
   either me or other students in my group for CSC 648. This application is all
   of our work.
+
+This was tested on an iPhone 14, there are a few quirks that come with this project,
+the first of which is that I had issues making it change tab views, so that has to be
+done manually. The second thing is since this is my own project and we have a rather
+small dataset I would recommend that you search for "computer" or just individual
+letters and you will be shown data. When you click on a post, you will then have to
+click on the view post tab
